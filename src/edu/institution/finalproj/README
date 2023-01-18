@@ -1,0 +1,1 @@
+This project takes a command line text input and returns a list of all possible combinations of the word, with an option to compare the input to a text file of known words and only returning those words
